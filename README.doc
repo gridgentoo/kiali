@@ -2,7 +2,7 @@
 [16 нояб. 2021 ] Kiali Sprint 65 Demo [v1.43] - Service mesh management for Istio.  
 
   
-[AuthorizationPolicy, Алгоритм валидации] Политики авторизации [models.IstioCheck]&[kubernetes.IstioObjecat]&[models.Namespaces]
+[Алгоритм валидации] Политики авторизации [models.IstioCheck]&[kubernetes.IstioObjecat]&[models.Namespaces]
 https://docs.google.com/document/d/1J9WTrGnEXNyoevwk_yRM1LlA3STGuuW-RF2SJQuGxlc/
 
 models.IstioCheck - это типо ООП Последовательность валидации в коде Kiali - ОПЕРАТОРА KIALI & ISTIO 
